@@ -1,0 +1,10 @@
+{
+    "name": "Bishal Rijal",
+    "age": 25,
+    "city": "Kathmandu",
+    "skills": [
+        "Python",
+        "JavaScript",
+        "SQL"
+    ]
+}
